@@ -1,0 +1,13 @@
+{
+  "name": "Tracker",
+  "description": "A Node project",
+  "version": "1.0.0",
+  "author": "filip.baranski <f.g.baranski@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.3",
+    "express": "^4.15.2",
+    "mysql": "^2.13.0"
+  }
+}
